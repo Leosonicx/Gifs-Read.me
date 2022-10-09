@@ -1,2 +1,2 @@
 # Snake-Gif-Clone
- Clone do gif de animação do usuário Platane
+Meus gifs usados no readme.
