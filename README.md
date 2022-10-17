@@ -1,2 +1,2 @@
-# Snake-Gif-Clone
+# Meus gifs.
 Meus gifs usados no readme.
